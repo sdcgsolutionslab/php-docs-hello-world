@@ -1,5 +1,5 @@
 <?php
 
-echo "Azure Stack Hello World!";
+echo "Azure Stack Tenant A Hello World!";
 
 ?>
