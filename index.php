@@ -1,5 +1,5 @@
 <?php
 
-echo "MAS Hello World!";
+echo "Hello World!";
 
 ?>
