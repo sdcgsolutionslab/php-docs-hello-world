@@ -1,5 +1,5 @@
 <?php
 
-echo "Demo with CICD Hello World!";
+echo "Hello World!";
 
 ?>
